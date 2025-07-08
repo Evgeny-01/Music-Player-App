@@ -30,6 +30,12 @@ const songs = [
         displayName: 'The Only',
         cover: 'assets/3.jpg',
         artist: 'Static-X',
+    },
+    {
+        path: 'assets/4.mp3',
+        displayName: 'Styles of Beyond',
+        cover: 'assets/4.jpg',
+        artist: 'Nine Thou',
     }
 ];
 
